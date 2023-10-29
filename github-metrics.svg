@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.02mb of code in 1025 edited files across 195 commits</small>
+                <small>estimation from 1.03mb of code in 1032 edited files across 199 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.44115307398008" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="250.44115307398008" y="0" width="146.48766998749952" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="396.9288230614796" y="0" width="43.12663358460548" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.0554566460851" y="0" width="7.064055456646084" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.11951210273116" y="0" width="4.662903897874919" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="451.7824160006061" y="0" width="4.0356074093715675" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="455.8180234099776" y="0" width="2.2582673586120685" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="458.0762907685897" y="0" width="1.9237092314102806" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.72145382486391" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="241.72145382486391" y="0" width="157.40334097465202" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="399.12479479951594" y="0" width="41.62507814985028" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="440.74987294936625" y="0" width="6.818103709878507" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.5679766592448" y="0" width="4.500553904201994" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="452.0685305634467" y="0" width="3.8950982220223533" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="455.9636287854691" y="0" width="2.1796404558467057" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="458.14326924131575" y="0" width="1.8567307586842305" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -291,8 +291,8 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 56.2 characters per line of code written</li>
-                        <li>Mostly pushes code around 15:00</li>
+                        <li>Has approximately 56.0 characters per line of code written</li>
+                        <li>Mostly pushes code around 01:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
@@ -2746,7 +2746,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2023, 01:12:19 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2023, 01:27:57 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
