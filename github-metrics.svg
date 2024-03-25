@@ -291,9 +291,9 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 27.5 characters per line of code written</li>
+                        <li>Has approximately 27.7 characters per line of code written</li>
                         <li>Mostly pushes code around 01:00</li>
-                        <li>Mostly active on Saturday</li>
+                        <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
             </section>
@@ -2747,7 +2747,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2024, 13:04:13 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2024, 14:04:11 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
