@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 40mb of code in 5575 edited files across 308 commits</small>
+                <small>estimation from 40mb of code in 5583 edited files across 311 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="274.10983937249773" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="274.10983937249773" y="0" width="145.91536488794918" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="420.0252042604469" y="0" width="25.127014464861908" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.15221872530884" y="0" width="4.115754207698997" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.2679729330078" y="0" width="3.5116906276346396" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.77966356064246" y="0" width="2.7167632609280994" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="455.4964268215706" y="0" width="2.3512794141664717" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="457.847706235737" y="0" width="2.1522937642629185" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="274.397200557777" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="274.397200557777" y="0" width="145.41342799706155" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="419.8106285548385" y="0" width="25.040579595391744" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.85120815023026" y="0" width="4.101596350695682" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.952804500926" y="0" width="3.499610699816567" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="452.45241520074256" y="0" width="2.7074178180714465" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="455.15983301881397" y="0" width="2.4969757754111845" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="457.6568087942252" y="0" width="2.3431912057748394" height="8" fill="#f0c040"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -268,15 +268,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f0c040" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Smarty
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Dockerfile
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f0c040" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Smarty
                     </div>
                 </div>
             </section>
@@ -2526,7 +2526,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.24m out of 134m users</span>
+                                    <span class="gh">ranked 1.24m out of 138m users</span>
                                 </div>
                                 <div class="text">Published 36 public repositories</div>
                             </div>
@@ -2721,7 +2721,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2024, 20:04:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jun 2024, 21:04:28 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
