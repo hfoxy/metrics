@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 14 repositories
+                            Contributed to 12 repositories
                         </div>
                     </section>
                 </div>
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 39.4mb of code in 4453 edited files across 363 commits</small>
+                <small>estimation from 39.4mb of code in 4451 edited files across 362 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="276.1124327402811" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="276.1124327402811" y="0" width="130.7403562268509" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="406.85278896713197" y="0" width="22.513837556284596" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="429.3666265234165" y="0" width="18.54594424636486" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="447.91257076978144" y="0" width="3.9569775098924436" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="451.86954827967384" y="0" width="3.687721109219303" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.5572693888932" y="0" width="2.4342234060855583" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="457.9914927949787" y="0" width="2.0085072050212682" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="275.6907391404311" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="275.6907391404311" y="0" width="131.040171882061" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="406.73091102249214" y="0" width="22.56546661064115" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="429.29637763313326" y="0" width="18.588474071020272" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="447.88485170415356" y="0" width="3.966051707324808" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="451.8509034114783" y="0" width="3.6961778440217863" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.54708125550013" y="0" width="2.439805602023261" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="457.98688685752336" y="0" width="2.013113142476592" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2665,7 +2665,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Mar 2026, 23:11:06 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 30 Mar 2026, 00:13:43 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
