@@ -2500,7 +2500,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.11m out of 223m users</span>
+                                    <span class="gh">ranked 1.11m out of 221m users</span>
                                 </div>
                                 <div class="text">Published 47 public repositories</div>
                             </div>
@@ -2665,7 +2665,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2026, 22:35:08 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Jun 2026, 23:31:19 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
