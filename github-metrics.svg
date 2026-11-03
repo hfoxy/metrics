@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            29832 Commits
+                            29844 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 81mb of code in 8867 edited files across 519 commits</small>
+                <small>estimation from 81mb of code in 8872 edited files across 520 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.67179063845805" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="231.67179063845805" y="0" width="135.06288372883517" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="366.7346743672932" y="0" width="50.16279359144393" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="416.89746795873714" y="0" width="23.33003031894069" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="440.22749827767785" y="0" width="8.638166660090986" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.8656649377688" y="0" width="7.115755226906467" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.9814201646753" y="0" width="2.500356604157246" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.4817767688325" y="0" width="1.5182232311675068" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.06502029211873" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="231.06502029211873" y="0" width="134.92705356014497" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="365.99207385226373" y="0" width="50.031412487352895" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="416.0234863396166" y="0" width="24.255797991447267" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="440.27928433106393" y="0" width="8.615542484045921" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.8948268151098" y="0" width="7.097118390494071" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.99194520560394" y="0" width="2.4938079335638377" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="458.48575313916774" y="0" width="1.5142468608323136" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -337,7 +337,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~18.95
+                            Average per day at ~18.99
                         </div>
                     </section>
                 </div>
@@ -2270,10 +2270,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,7.139013452914798 0,6.139013452914798 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,6.139013452914798 1.7,7.139013452914798 z"/>
                             </g>
-                            <g transform="translate(-8.5, 6.452914798206278)">
+                            <g transform="translate(-8.5, 6.399103139013453)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.547085201793722 0,5.547085201793722 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.547085201793722 1.7,6.547085201793722 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.600896860986547 0,5.600896860986547 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.600896860986547 1.7,6.600896860986547 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.946188340807176)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2287,10 +2287,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 4.255605381165919)">
+                            <g transform="translate(-1.7, 3.986547085201794)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.744394618834081 0,3.7443946188340806 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.7443946188340806 1.7,4.744394618834081 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.013452914798206 0,4.013452914798206 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.013452914798206 1.7,5.013452914798206 z"/>
                             </g>
                         </g>
                     </g>
@@ -2480,7 +2480,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.15m out of 255m users</span>
+                                    <span class="gh">ranked 1.15m out of 254m users</span>
                                 </div>
                                 <div class="text">Published 48 public repositories</div>
                             </div>
@@ -2645,7 +2645,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Nov 2026, 13:06:10 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Nov 2026, 14:06:10 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
