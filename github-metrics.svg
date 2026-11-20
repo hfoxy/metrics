@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 81.2mb of code in 8931 edited files across 536 commits</small>
+                <small>estimation from 81.2mb of code in 8945 edited files across 539 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.32128249579063" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="233.32128249579063" y="0" width="130.4465098728824" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="363.76779236867304" y="0" width="47.069432331509574" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="410.8372247001826" y="0" width="30.609573509990355" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="441.446798210173" y="0" width="8.105481612268218" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.55227982244116" y="0" width="6.676951883269673" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.2292317057109" y="0" width="2.346168495769273" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.5754002014802" y="0" width="1.4245997985198684" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.01880367294632" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="232.01880367294632" y="0" width="129.99545483507848" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="362.0142585080248" y="0" width="46.80667473752027" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="408.82093324554506" y="0" width="32.72943525263896" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="441.550368498184" y="0" width="8.060234054754371" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.61060255293836" y="0" width="6.639678864983115" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.2502814179215" y="0" width="2.333071384576174" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="458.58335280249764" y="0" width="1.4166471975022832" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2660,7 +2660,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Nov 2026, 17:04:54 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Nov 2026, 18:07:17 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
